@@ -1,1 +1,1 @@
-poloLender: node server.js
+web: node -r babel-register app.js
